@@ -1,0 +1,12 @@
+## .NET
+bin/
+obj/
+*.user
+
+## VS / Rider
+.vs/
+*.suo
+
+## OS
+Thumbs.db
+.DS_Store
